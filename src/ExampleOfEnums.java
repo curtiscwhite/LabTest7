@@ -18,7 +18,7 @@ public class ExampleOfEnums {
 		if(text.equals("Monday")){
 			return Day.MONDAY;
 		}
-		return Day.FRIDAY;
+		return Day.SATURDAY;
 	}
 	public void setDay(Day this_day){
 		day = this_day;
