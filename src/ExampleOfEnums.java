@@ -19,6 +19,7 @@ public class ExampleOfEnums {
 			return Day.MONDAY;
 		}
 		return Day.WEDNESDAY;
+
 	}
 	
 	public void setDay(Day this_day){
